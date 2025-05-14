@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mingyukim/Documents/cpp/~0x02/tutorial'
+relocations:     []
+...

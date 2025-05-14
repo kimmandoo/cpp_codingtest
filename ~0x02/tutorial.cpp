@@ -17,7 +17,7 @@ void vector_prac(){
     vector<int> v(100); // 자바의 Arraylist<Integer> k = new ArrayList(100);
     v[20] = 100;
     v[23] = -10;
-    cout << v[20] << endl;
+    cout << v[20] << "\n";
     cout << v[23] << endl;
 }
 
